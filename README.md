@@ -1,6 +1,6 @@
 # Weather_App
 
-- Webpage to display a current weather for any location.
+- Web App to display a current weather for any location.
 
 - Tech stack: HTML, CSS, Javascript
 
